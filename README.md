@@ -1,2 +1,2 @@
-# Machine-Learning-Week3-Regularization-Quiz-Answers
+# R basic code snippet
 Solutions with explanation
